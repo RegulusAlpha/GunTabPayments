@@ -25,7 +25,7 @@ This module enables secure and compliant payment processing via [GunTab](https:/
 
 ## 📦 File Structure
 
-
+```text
 guntabpayment/
 ├── guntabpayment.php                       # Main module file (registration, settings, hooks)
 ├── controllers/
@@ -39,7 +39,7 @@ guntabpayment/
 │       │   └── error.tpl                   # Fallback error display template
 │       └── hook/
 │           └── payment_return.tpl         # Display after order confirmation
-
+```
 ⚙️ Installation
 - Upload the guntabpayment/ folder to your /modules/ directory.
 - In the PrestaShop admin panel, go to Modules > Module Manager and install GunTab Payment Gateway.
