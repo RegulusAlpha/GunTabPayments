@@ -1,4 +1,4 @@
-# GunTab Payment Gateway for PrestaShop
+# GunTab Payment Gateway for PrestaShop BETA
 
 This module enables secure and compliant payment processing via [GunTab](https://www.guntab.com) for online stores powered by PrestaShop.
 
@@ -12,7 +12,7 @@ This module enables secure and compliant payment processing via [GunTab](https:/
 
 ---
 
-## 🚀 Features
+## 🚀 Features (BETA EXPERIMENTAL TESTING)
 
 - ✅ Send product listings directly to GunTab with mapped `listing_type_id`
 - ✅ Use GunTab for only specific products or categories
